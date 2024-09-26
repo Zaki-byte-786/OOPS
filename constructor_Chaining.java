@@ -31,7 +31,7 @@ public class constructor_Chaining {
     public static void main(String[] args) {
 //        A a = new A();
 //        B a = new B();
-        C c = new C(1,2);
+//        C c = new C(1,2);
 //        C c = new C();
     }
 
